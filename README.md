@@ -2,6 +2,7 @@
 This [dashboard](https://chschoenenberger.shinyapps.io/covid19_dashboard/) shows recent developments of the COVID-19 pandemic. The latest
 open data on the COVID-19 spread are regularly downloaded and displayed in
 a map, summary tables, key figures and plots.
+Read More: https://towardsdatascience.com/covid-19-open-source-dashboard-fa1d2b4cd985
 
 ## Motivation
 Various companies thought that a global crisis is an excellent opportunity to 
